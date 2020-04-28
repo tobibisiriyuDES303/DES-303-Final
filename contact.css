@@ -162,3 +162,22 @@ a{
 .submitbtn{
     margin-left: 800px;
 }
+
+.newsletter{
+    color: white;
+    font-family: "Helvetica";
+    font-size: 24px;
+    margin-left: 815px;
+}
+
+#newsl{
+    width: 44px;
+    height: 44px;
+    border-radius: 1px;
+    border: solid 3px white;
+    background: #292929;
+    margin-top: 10px;
+    margin-left: 930px;
+    color: #292929;
+    border-width: 0 3px 3px 0;
+}
