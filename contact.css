@@ -1,0 +1,164 @@
+@font-face{
+    font-family: "Avenir";
+    src: url(/Fonts/avenir-next-regular.ttf);
+}
+
+@font-face{
+    font-family: "Helvetica";
+    src: url(/Fonts/helveticaneue.ttf);
+}
+header{
+    width: 100%;
+}
+
+body{
+    background-color: #111111; 
+}
+
+ul{
+    width: auto;
+    font-family: "Arial";
+    float: right;
+    top: 18px;
+    position: relative;
+    margin-right: 250px;
+}
+
+li{
+    display: inline-block;
+    padding: 19px;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1.14px;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.HOME{
+    color: #ffffff;
+}
+
+.FEATURES{
+    color: #ffffff;
+}
+
+.PARTY-TIPS{
+    color: #ffffff;
+}
+
+.TEAM{
+    color: #ffffff;
+}
+
+.CONTACT{
+    color: #ffffff;
+}
+
+.LOGO{
+    width: 40px;
+    height: 40px;
+    margin-top: 39px;
+    margin-left: 152px;
+    position: absolute;
+
+}
+
+.contactus{
+    margin-top: 100px;
+    margin-left: 350px;
+   
+}
+
+.instagram{
+    margin-top: 150px;
+    margin-left: 830px;
+}
+
+.fettiapp{
+    margin-left: 885px;
+    font-family: "Avenir";
+    color: #ed3b77;
+    font-size: 22px;
+}
+
+.information{
+    font-family: "Helvetica";
+    color: white;
+    font-size: 24px;
+    margin-left: 475px;
+    margin-top: 75px;
+}
+
+.first-name{
+    color: white;
+    font-family: "Helvetica";
+    font-size: 24px;
+    margin-left: 870px;
+    margin-top: 75px;
+}
+
+#fname{
+    background-color: #292929;
+    border: none;
+    width: 300px;
+    height: 35px;
+    margin-left: 795px;
+}
+
+.last-name{
+    color: white;
+    font-family: "Helvetica";
+    font-size: 24px;
+    margin-left: 873px;
+    margin-top: 75px;
+}
+
+#lname{
+    background-color: #292929;
+    border: none;
+    width: 300px;
+    height: 35px;
+    margin-left: 795px;
+}
+
+.email{
+    color: white;
+    font-family: "Helvetica";
+    font-size: 24px;
+    margin-left: 900px;
+    margin-top: 75px;
+}
+
+#e_mail{
+    background-color: #292929;
+    border: none;
+    width: 300px;
+    height: 35px;
+    margin-left: 795px;
+}
+
+.message{
+    color: white;
+    font-family: "Helvetica";
+    font-size: 24px;
+    margin-left: 842px;
+    margin-top: 75px;
+}
+
+
+#mess_age{
+    background-color: #292929;
+    border: none;
+    width: 720px;
+    height: 450px;
+    margin-left: 595px;
+}
+
+.submitbtn{
+    margin-left: 800px;
+}
